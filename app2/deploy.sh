@@ -6,5 +6,4 @@ kubectl get pods
 kubectl create -f service.yaml
 kubectl get service
 echo "========="
-curl host01:30080
 echo ""
